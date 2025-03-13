@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 13-03-2025
+## Register Number:212223100032
+## Name: MARIO VIOFER J
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,26 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+The project aims to develop a Web-based Selector-Applicant Simulation Software to streamline the interview process conducted by the Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence. The software will create a real-life boardroom experience where interviewers can pose questions dynamically, and candidates can respond in a structured manner. The system will evaluate question relevance, candidate responses, and provide quantifiable scores to assess the candidate’s subject knowledge and suitability for the role.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/ef263fdf-02fd-45a9-9da5-29efdd5e8532)
 
 
 ## Use Cases
-
+![image](https://github.com/user-attachments/assets/b1d92fc6-21a0-40c5-b1eb-424cef92a2c0)
 
 ## Technology Stack
-
+Frontend: React.js / Next.js / Angular
+Backend: Node.js (Express.js) / Django (Python)
+Database: PostgreSQL / MySQL
+AI/NLP: GPT/BERT (for response evaluation), spaCy (for text processing)
+Authentication: JWT / OAuth
+Video & Audio Processing: WebRTC / Twilio
+Cloud & Hosting: AWS / GCP / Azure
 
 ## Dependencies
-
+Database: PostgreSQL / MySQL for structured data storage.
+AI Models: GPT/BERT for text understanding and scoring.
+Cloud Services: AWS S3 for file storage, AWS Lambda for AI processing.
+Third-Party APIs: WebRTC for real-time communication, Twilio for notifications.
