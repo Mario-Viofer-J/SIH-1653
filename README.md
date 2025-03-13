@@ -22,15 +22,24 @@ The project aims to develop a Web-based Selector-Applicant Simulation Software t
 
 ## Technology Stack
 Frontend: React.js / Next.js / Angular
+
 Backend: Node.js (Express.js) / Django (Python)
+
 Database: PostgreSQL / MySQL
+
 AI/NLP: GPT/BERT (for response evaluation), spaCy (for text processing)
+
 Authentication: JWT / OAuth
+
 Video & Audio Processing: WebRTC / Twilio
+
 Cloud & Hosting: AWS / GCP / Azure
 
 ## Dependencies
 Database: PostgreSQL / MySQL for structured data storage.
+
 AI Models: GPT/BERT for text understanding and scoring.
+
 Cloud Services: AWS S3 for file storage, AWS Lambda for AI processing.
+
 Third-Party APIs: WebRTC for real-time communication, Twilio for notifications.
